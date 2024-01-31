@@ -1,0 +1,469 @@
+[
+    {"Background":  [
+        0,
+        0,
+        0
+    ]},
+    {
+        "Person": [
+            220,
+            20,
+            60
+        ]
+    },
+    {
+        "Person Group": [
+            220,
+            20,
+            60
+        ]
+    },
+    {
+        "Traffic Island": [
+            128,
+            196,
+            128
+        ]
+    },
+    {
+        "Traffic Sign Frame": [
+            128,
+            128,
+            128
+        ]
+    },
+    {
+        "Traffic Cone": [
+            210,
+            60,
+            60
+        ]
+    },
+    {
+        "Traffic Light - General (Single)": [
+            250,
+            170,
+            30
+        ]
+    },
+    {
+        "Traffic Light - Pedestrians": [
+            250,
+            170,
+            30
+        ]
+    },
+    {
+        "Traffic Light - General (Upright)": [
+            250,
+            170,
+            30
+        ]
+    },
+    {
+        "Traffic Light - General (Horizontal)": [
+            250,
+            170,
+            30
+        ]
+    },
+    {
+        "Traffic Light - Cyclists": [
+            250,
+            170,
+            30
+        ]
+    },
+    {
+        "Traffic Light - Other": [
+            250,
+            170,
+            30
+        ]
+    },
+    {
+        "Traffic Sign - Ambiguous": [
+            192,
+            192,
+            192
+        ]
+    },
+    {
+        "Traffic Sign (Back)": [
+            192,
+            192,
+            192
+        ]
+    },
+    {
+        "Traffic Sign - Direction (Back)": [
+            192,
+            192,
+            192
+        ]
+    },
+    {
+        "Traffic Sign - Direction (Front)": [
+            220,
+            220,
+            0
+        ]
+    },
+    {
+        "Traffic Sign (Front)": [
+            220,
+            220,
+            0
+        ]
+    },
+    {
+        "Traffic Sign - Parking": [
+            0,
+            0,
+            196
+        ]
+    },
+    {
+        "Traffic Sign - Temporary (Back)": [
+            192,
+            192,
+            192
+        ]
+    },
+    {
+        "Traffic Sign - Temporary (Front)": [
+            220,
+            220,
+            0
+        ]
+    },
+    {
+        "Bicycle": [
+            119,
+            11,
+            32
+        ]
+    },
+    {
+        "Boat": [
+            150,
+            0,
+            255
+        ]
+    },
+    {
+        "Bus": [
+            0,
+            60,
+            100
+        ]
+    },
+    {
+        "Car": [
+            0,
+            0,
+            142
+        ]
+    },
+    {
+        "Caravan": [
+            0,
+            0,
+            90
+        ]
+    },
+    {
+        "Motorcycle": [
+            0,
+            0,
+            230
+        ]
+    },
+    {
+        "On Rails": [
+            0,
+            80,
+            100
+        ]
+    },
+    {
+        "Other Vehicle": [
+            128,
+            64,
+            64
+        ]
+    },
+    {
+        "Trailer": [
+            0,
+            0,
+            110
+        ]
+    },
+    {
+        "Truck": [
+            0,
+            0,
+            70
+        ]
+    },
+    {
+        "Vehicle Group": [
+            0,
+            0,
+            142
+        ]
+    },
+    {
+        "Wheeled Slow": [
+            0,
+            0,
+            192
+        ]
+    },
+    {
+        "Ego Vehicle": [
+            120,
+            10,
+            10
+        ]
+    },
+    {
+        "Truck": [
+            0,
+            0,
+            70
+        ]
+    },
+    {
+        "Trailer": [
+            0,
+            0,
+            110
+        ]
+    },
+    {
+        "Motorcycle": [
+            0,
+            0,
+            230
+        ]
+    },
+    {
+        "Car": [
+            0,
+            0,
+            142
+        ]
+    },
+    {
+        "Caravan": [
+            0,
+            0,
+            90
+        ]
+    },
+    {
+        "Car Mount": [
+            32,
+            32,
+            32
+        ]
+    },
+    {
+        "Bus": [
+            0,
+            60,
+            100
+        ]
+    },
+    {
+        "Lane Marking - Symbol (Bicycle)": [
+            250,
+            170,
+            16
+        ]
+    },
+    {
+        "Bicycle": [
+            119,
+            11,
+            32
+        ]
+    },
+    {
+        "Bench": [
+            250,
+            0,
+            30
+        ]
+    },
+    {
+        "Banner": [
+            255,
+            255,
+            128
+        ]
+    },
+    {
+        "Water": [
+            0,
+            170,
+            30
+        ]
+    },
+    {
+        "Water Valve": [
+            170,
+            170,
+            170
+        ]
+    },
+    {
+        "Water": [
+            0,
+            170,
+            30
+        ]
+    },
+    {
+        "Water Valve": [
+            170,
+            170,
+            170
+        ]
+    },
+    {
+        "Vegetation": [
+            107,
+            142,
+            35
+        ]
+    },
+    {
+        "Terrain": [
+            152,
+            251,
+            152
+        ]
+    },
+    {
+        "Sky": [
+            70,
+            130,
+            180
+        ]
+    },
+    {
+        "Sand": [
+            230,
+            160,
+            50
+        ]
+    },
+    {
+        "Mountain": [
+            64,
+            170,
+            64
+        ]
+    },
+    {
+        "Bike Lane": [
+            128,
+            64,
+            255
+        ]
+    },
+    {
+        "Service Lane": [
+            110,
+            110,
+            110
+        ]
+    },
+    {
+        "Tunnel": [
+            150,
+            120,
+            90
+        ]
+    },
+    {
+        "Building": [
+            70,
+            70,
+            70
+        ]
+    },
+    {
+        "Bridge": [
+            150,
+            100,
+            100
+        ]
+    },
+    {
+        "Sidewalk": [
+            244,
+            35,
+            232
+        ]
+    },
+    {
+        "Road Median": [
+            250,
+            170,
+            33
+        ]
+    },
+    {
+        "Road Side": [
+            250,
+            170,
+            34
+        ]
+    },
+    {
+        "Road": [
+            128,
+            64,
+            128
+        ]
+    },
+    {
+        "Road Shoulder": [
+            110,
+            110,
+            110
+        ]
+    },
+    {
+        "Crosswalk - Plain": [
+            140,
+            140,
+            200
+        ]
+    },
+    {
+        "Lane Marking - Crosswalk": [
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "Lane Marking (only) - Crosswalk": [
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "Wall": [
+            102,
+            102,
+            156
+        ]
+    }
+]
